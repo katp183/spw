@@ -1,0 +1,17 @@
+{
+  "name": "spw",
+  "version": "1.0.0",
+  "description": "practica 1",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/index",
+    "dev": "nodemon src/index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kevin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
